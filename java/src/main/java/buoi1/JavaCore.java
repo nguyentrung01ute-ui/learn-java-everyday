@@ -1,7 +1,7 @@
 package buoi1;
 
 import java.util.Scanner;
-// Trung
+// newbies
 public class JavaCore {
     public static void main(String args[]) { // args có thể đặt tên khác nó chỉ là biến
         Scanner sc = new Scanner(System.in);
